@@ -5,4 +5,4 @@ class Anagram
     @word = word
   end
   
-  def match.
+  def self.match
