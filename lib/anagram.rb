@@ -6,4 +6,4 @@ class Anagram
   end
   
   def self.match(anaword)
-    
+    anaword.select do 
